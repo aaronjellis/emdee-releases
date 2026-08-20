@@ -1,1 +1,14 @@
 .DS_Store
+
+# Working directory used to generate the appcast. Binaries are attached to
+# GitHub Releases, never committed — keeping them out of git history is the
+# difference between a small repo and a permanently bloated one.
+dmgs/
+*.dmg
+*.zip
+
+# Never let a signing key land here, even by accident.
+*.p8
+*.p12
+*.pem
+*.key
