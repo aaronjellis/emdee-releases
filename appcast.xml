@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Emdee</title>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Sun, 11 Oct 2026 11:46:29 -0600</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/aaronjellis/emdee-releases/releases/download/v1.0.0/Emdee-1.0.0.dmg" length="6842282" type="application/octet-stream" sparkle:edSignature="o4yL837uWTst018Qu1vvoF70yuHxuahj9JwnmnyKmSK1Ttd9IhlEsLw881KZKC2/GYi2mxFretBPwO1zhXnMDA=="/>
+        </item>
+    </channel>
+</rss>
